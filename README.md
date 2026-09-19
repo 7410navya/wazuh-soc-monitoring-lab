@@ -5,7 +5,14 @@
 A hands-on SOC home lab built using Wazuh to monitor and investigate Windows security events.
 
 This project demonstrates practical SOC activities including SIEM monitoring, log analysis, alert triage, threat hunting, IOC investigation, event correlation, and incident investigation.
+## Project Highlights
 
+- Built a Windows SOC monitoring lab using Wazuh SIEM.
+- Monitored and investigated Windows Security Events.
+- Performed alert triage and threat hunting using Wazuh.
+- Investigated authentication and process activity using Event IDs 4624, 4625, and 4688.
+- Correlated security events and timestamps to support investigation timelines.
+- Documented investigation findings with supporting screenshots.
 ## Tools Used
 
 - Wazuh
