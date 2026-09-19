@@ -62,7 +62,11 @@ Alert → Validate → Collect Evidence → Correlate → Build Timeline → Inv
 ## Investigation Documentation
 
 Detailed investigations and evidence are available in the [Investigations](./investigations/) section.
+### SOC Investigation Case Study
 
+A detailed case study covering Windows authentication and process activity investigations is available here:
+
+[View SOC Investigation Case Study](./investigations/SOC-Case-Study.md)
 ## Screenshots
 
 Wazuh investigation screenshots are available in the [Screenshots](./screenshots/) section.
