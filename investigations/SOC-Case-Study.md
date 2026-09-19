@@ -38,7 +38,11 @@ Build Timeline
 Investigate Activity
 ↓
 Document Findings
-
+| Event ID | Event Type | Evidence Reviewed |
+|---|---|---|
+| 4625 | Failed Logon | Username, timestamp, logon type, failure reason, source IP when available |
+| 4624 | Successful Logon | Username, timestamp, logon type, authentication details, related events |
+| 4688 | Process Creation | New process name, parent process, process ID, command line when available, user context |
 ## Event Analysis
 
 ### Event ID 4625
