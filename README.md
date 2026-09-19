@@ -20,7 +20,17 @@ This project demonstrates practical SOC activities including SIEM monitoring, lo
 - PowerShell
 - Wireshark
 - VirtualBox
+## Lab Architecture
 
+Windows Endpoint
+        ↓
+Wazuh Agent
+        ↓
+Wazuh Manager
+        ↓
+Wazuh Dashboard
+        ↓
+Threat Hunting & Investigation
 ## Security Events Investigated
 
 ### Event ID 4624 – Successful Logon
@@ -86,3 +96,5 @@ Wazuh investigation screenshots are available in the [Screenshots](./screenshots
 ## Project Status
 
 Completed hands-on SOC home lab project focused on Windows security monitoring and investigation using Wazuh.
+
+The project demonstrates practical experience in SIEM monitoring, Windows event analysis, alert triage, threat hunting, event correlation, and investigation documentation.
