@@ -16,7 +16,7 @@ This section documents security event investigations performed in the Wazuh SOC 
   - Source IP, when available
   - Related authentication events
 
-![4625 Failed Logon](../screenshots/event-4625-failed-logon.png)
+![4625 Failed Logon](../event-4625-failed-logon.png)
 
 ---
 
