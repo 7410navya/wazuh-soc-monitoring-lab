@@ -31,7 +31,7 @@ This section documents security event investigations performed in the Wazuh SOC 
   - Authentication details
   - Related events
 
-![4624 Successful Logon](../screenshots/event-4624-successful-logon.png)
+![4624 Successful Logon](../event-4624-successful-logon.png)
 
 ---
 
@@ -47,7 +47,7 @@ This section documents security event investigations performed in the Wazuh SOC 
   - User context
   - Related network activity
 
-![4688 Process Creation](../screenshots/event-4688-process-creation.png)
+![4688 Process Creation](../event-4688-process-creation.png)
 
 ## Investigation Approach
 
