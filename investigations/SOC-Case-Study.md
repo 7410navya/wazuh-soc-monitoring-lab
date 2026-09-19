@@ -93,6 +93,17 @@ Process creation was evaluated using process context and related events.
 | 6 | Findings were documented based on the available evidence |
 
 The timeline was built by correlating related Windows security events and reviewing their timestamps and available event details.
+## Evidence Screenshots
+
+The screenshots in this case study show Wazuh Threat Hunting views used during the investigation of Windows security events.
+
+The screenshots provide visual evidence of:
+
+- Failed authentication activity (Event ID 4625)
+- Successful authentication activity (Event ID 4624)
+- Process creation activity (Event ID 4688)
+
+The screenshots are included as supporting evidence for the investigation and were reviewed together with the corresponding event details.
 ## Investigation Findings
 
 The investigated events provided visibility into authentication and process activity on the Windows endpoint.
