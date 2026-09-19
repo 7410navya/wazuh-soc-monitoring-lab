@@ -38,15 +38,15 @@ Build Timeline
 Investigate Activity
 ↓
 Document Findings
+
+## Event Analysis
 | Event ID | Event Type | Evidence Reviewed |
 |---|---|---|
 | 4625 | Failed Logon | Username, timestamp, logon type, failure reason, source IP when available |
 | 4624 | Successful Logon | Username, timestamp, logon type, authentication details, related events |
 | 4688 | Process Creation | New process name, parent process, process ID, command line when available, user context |
-## Event Analysis
-
 ### Event ID 4625
-
+![4625 Failed Logon](../event-4625-failed-logon.png)
 Failed authentication activity was reviewed using:
 
 - Username
