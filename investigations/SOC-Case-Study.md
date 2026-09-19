@@ -81,7 +81,18 @@ Process creation activity was reviewed using:
 - Related activity
 
 Process creation was evaluated using process context and related events.
+## Investigation Timeline
 
+| Stage | Investigation Activity |
+|---|---|
+| 1 | Wazuh collected Windows security events from the endpoint |
+| 2 | Event ID 4625 was reviewed for failed authentication activity |
+| 3 | Event ID 4624 was reviewed for successful authentication activity |
+| 4 | Event ID 4688 was reviewed for process creation activity |
+| 5 | Event details were correlated using timestamps and available event fields |
+| 6 | Findings were documented based on the available evidence |
+
+The timeline was built by correlating related Windows security events and reviewing their timestamps and available event details.
 ## Investigation Findings
 
 The investigated events provided visibility into authentication and process activity on the Windows endpoint.
