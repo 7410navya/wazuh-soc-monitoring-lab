@@ -58,7 +58,7 @@ Failed authentication activity was reviewed using:
 The event was treated as an investigation lead rather than automatically classified as an attack.
 
 ### Event ID 4624
-
+![4624 Successful Logon](../event-4624-successful-logon.png)
 Successful authentication activity was reviewed using:
 
 - Username
@@ -70,7 +70,7 @@ Successful authentication activity was reviewed using:
 A successful logon alone was not treated as malicious.
 
 ### Event ID 4688
-
+![4688 Process Creation](../event-4688-process-creation.png)
 Process creation activity was reviewed using:
 
 - New Process Name
